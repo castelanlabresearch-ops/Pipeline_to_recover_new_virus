@@ -1,3 +1,3 @@
 # Pipeline_to_recover_new_virus
 
-## This is pipleine for discover new virus 
+## This is pipeline for discovering new viruses 
