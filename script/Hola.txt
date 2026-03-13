@@ -1,3 +1,9 @@
 Hola
 
 Este es un cambio al script
+
+git add Hola.txt
+
+git commit -m "comentario"
+
+git push
